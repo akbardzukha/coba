@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CudafyModule Version="1.29.5576.13786" Name="Form1" DebugInfo="false" HasCudaSourceCode="false" HasPTX="true" HasBinary="false">
+  <CudaSourceCode></CudaSourceCode>
+  <PTXMODULES>
+    <PTXMODULE Platform="x86" Arch="sm_20" SourceCodeFile="9f07abba-8f32-4cf5-b88d-50676f79d639">Ly8NCi8vIEdlbmVyYXRlZCBieSBOVklESUEgTlZWTSBDb21waWxlcg0KLy8NCi8vIENvbXBpbGVyIEJ1aWxkIElEOiBDTC0xOTgwNTQ3NA0KLy8gQ3VkYSBjb21waWxhdGlvbiB0b29scywgcmVsZWFzZSA3LjUsIFY3LjUuMTYNCi8vIEJhc2VkIG9uIExMVk0gMy40c3ZuDQovLw0KDQoudmVyc2lvbiA0LjMNCi50YXJnZXQgc21fMjANCi5hZGRyZXNzX3NpemUgMzINCg0KCS8vIC5nbG9ibAlhZGRWZWN0b3INCg0KLnZpc2libGUgLmVudHJ5IGFkZFZlY3RvcigNCgkucGFyYW0gLnUzMiBhZGRWZWN0b3JfcGFyYW1fMCwNCgkucGFyYW0gLnUzMiBhZGRWZWN0b3JfcGFyYW1fMSwNCgkucGFyYW0gLnUzMiBhZGRWZWN0b3JfcGFyYW1fMiwNCgkucGFyYW0gLnUzMiBhZGRWZWN0b3JfcGFyYW1fMywNCgkucGFyYW0gLnUzMiBhZGRWZWN0b3JfcGFyYW1fNCwNCgkucGFyYW0gLnUzMiBhZGRWZWN0b3JfcGFyYW1fNSwNCgkucGFyYW0gLnUzMiBhZGRWZWN0b3JfcGFyYW1fNg0KKQ0Kew0KCS5yZWcgLnByZWQgCSVwPDM+Ow0KCS5yZWcgLmYzMiAJJWY8ND47DQoJLnJlZyAuYjMyIAklcjwyMD47DQoNCg0KCWxkLnBhcmFtLnUzMiAJJXI4LCBbYWRkVmVjdG9yX3BhcmFtXzBdOw0KCWxkLnBhcmFtLnUzMiAJJXI5LCBbYWRkVmVjdG9yX3BhcmFtXzJdOw0KCWxkLnBhcmFtLnUzMiAJJXIxMCwgW2FkZFZlY3Rvcl9wYXJhbV80XTsNCglsZC5wYXJhbS51MzIgCSVyMTEsIFthZGRWZWN0b3JfcGFyYW1fNl07DQoJbW92LnUzMiAJJXIxMiwgJW50aWQueDsNCgltb3YudTMyIAklcjEzLCAlY3RhaWQueDsNCgltb3YudTMyIAklcjE0LCAldGlkLng7DQoJbWFkLmxvLnMzMiAJJXIxOSwgJXIxMiwgJXIxMywgJXIxNDsNCglzZXRwLmdlLnMzMgklcDEsICVyMTksICVyMTE7DQoJQCVwMSBicmEgCUJCMF8zOw0KDQoJY3Z0YS50by5nbG9iYWwudTMyIAklcjIsICVyMTA7DQoJY3Z0YS50by5nbG9iYWwudTMyIAklcjMsICVyOTsNCgljdnRhLnRvLmdsb2JhbC51MzIgCSVyNCwgJXI4Ow0KCW1vdi51MzIgCSVyNSwgJW5jdGFpZC54Ow0KDQpCQjBfMjoNCglzaGwuYjMyIAklcjE1LCAlcjE5LCAyOw0KCWFkZC5zMzIgCSVyMTYsICVyMywgJXIxNTsNCglsZC5nbG9iYWwuZjMyIAklZjEsIFslcjE2XTsNCglhZGQuczMyIAklcjE3LCAlcjQsICVyMTU7DQoJbGQuZ2xvYmFsLmYzMiAJJWYyLCBbJXIxN107DQoJYWRkLmYzMiAJJWYzLCAlZjIsICVmMTsNCglhZGQuczMyIAklcjE4LCAlcjIsICVyMTU7DQoJc3QuZ2xvYmFsLmYzMiAJWyVyMThdLCAlZjM7DQoJYWRkLnMzMiAJJXIxOSwgJXI1LCAlcjE5Ow0KCXNldHAubHQuczMyCSVwMiwgJXIxOSwgJXIxMTsNCglAJXAyIGJyYSAJQkIwXzI7DQoNCkJCMF8zOg0KCXJldDsNCn0NCg0KCS8vIC5nbG9ibAljb21wYXJlX21heA0KLnZpc2libGUgLmVudHJ5IGNvbXBhcmVfbWF4KA0KCS5wYXJhbSAudTMyIGNvbXBhcmVfbWF4X3BhcmFtXzAsDQoJLnBhcmFtIC51MzIgY29tcGFyZV9tYXhfcGFyYW1fMSwNCgkucGFyYW0gLnUzMiBjb21wYXJlX21heF9wYXJhbV8yLA0KCS5wYXJhbSAudTMyIGNvbXBhcmVfbWF4X3BhcmFtXzMsDQoJLnBhcmFtIC51MzIgY29tcGFyZV9tYXhfcGFyYW1fNCwNCgkucGFyYW0gLnUzMiBjb21wYXJlX21heF9wYXJhbV81LA0KCS5wYXJhbSAudTMyIGNvbXBhcmVfbWF4X3BhcmFtXzYNCikNCnsNCgkucmVnIC5wcmVkIAklcDw0PjsNCgkucmVnIC5mMzIgCSVmPDQ+Ow0KCS5yZWcgLmIzMiAJJXI8MjA+Ow0KDQoNCglsZC5wYXJhbS51MzIgCSVyOCwgW2NvbXBhcmVfbWF4X3BhcmFtXzBdOw0KCWxkLnBhcmFtLnUzMiAJJXI5LCBbY29tcGFyZV9tYXhfcGFyYW1fMl07DQoJbGQucGFyYW0udTMyIAklcjEwLCBbY29tcGFyZV9tYXhfcGFyYW1fNF07DQoJbGQucGFyYW0udTMyIAklcjExLCBbY29tcGFyZV9tYXhfcGFyYW1fNl07DQoJbW92LnUzMiAJJXIxMiwgJW50aWQueDsNCgltb3YudTMyIAklcjEzLCAlY3RhaWQueDsNCgltb3YudTMyIAklcjE0LCAldGlkLng7DQoJbWFkLmxvLnMzMiAJJXIxOSwgJXIxMiwgJXIxMywgJXIxNDsNCglzZXRwLmdlLnMzMgklcDEsICVyMTksICVyMTE7DQoJQCVwMSBicmEgCUJCMV8zOw0KDQoJY3Z0YS50by5nbG9iYWwudTMyIAklcjIsICVyMTA7DQoJY3Z0YS50by5nbG9iYWwudTMyIAklcjMsICVyOTsNCgljdnRhLnRvLmdsb2JhbC51MzIgCSVyNCwgJXI4Ow0KCW1vdi51MzIgCSVyNSwgJW5jdGFpZC54Ow0KDQpCQjFfMjoNCglzaGwuYjMyIAklcjE1LCAlcjE5LCAyOw0KCWFkZC5zMzIgCSVyMTYsICVyMywgJXIxNTsNCglsZC5nbG9iYWwuZjMyIAklZjEsIFslcjE2XTsNCglhZGQuczMyIAklcjE3LCAlcjQsICVyMTU7DQoJbGQuZ2xvYmFsLmYzMiAJJWYyLCBbJXIxN107DQoJc2V0cC5ndC5mMzIJJXAyLCAlZjIsICVmMTsNCglzZWxwLmYzMgklZjMsICVmMiwgJWYxLCAlcDI7DQoJYWRkLnMzMiAJJXIxOCwgJXIyLCAlcjE1Ow0KCXN0Lmdsb2JhbC5mMzIgCVslcjE4XSwgJWYzOw0KCWFkZC5zMzIgCSVyMTksICVyNSwgJXIxOTsNCglzZXRwLmx0LnMzMgklcDMsICVyMTksICVyMTE7DQoJQCVwMyBicmEgCUJCMV8yOw0KDQpCQjFfMzoNCglyZXQ7DQp9DQoNCgkvLyAuZ2xvYmwJY29tcGFyZV9taW4NCi52aXNpYmxlIC5lbnRyeSBjb21wYXJlX21pbigNCgkucGFyYW0gLnUzMiBjb21wYXJlX21pbl9wYXJhbV8wLA0KCS5wYXJhbSAudTMyIGNvbXBhcmVfbWluX3BhcmFtXzEsDQoJLnBhcmFtIC51MzIgY29tcGFyZV9taW5fcGFyYW1fMiwNCgkucGFyYW0gLnUzMiBjb21wYXJlX21pbl9wYXJhbV8zLA0KCS5wYXJhbSAudTMyIGNvbXBhcmVfbWluX3BhcmFtXzQsDQoJLnBhcmFtIC51MzIgY29tcGFyZV9taW5fcGFyYW1fNSwNCgkucGFyYW0gLnUzMiBjb21wYXJlX21pbl9wYXJhbV82DQopDQp7DQoJLnJlZyAucHJlZCAJJXA8ND47DQoJLnJlZyAuZjMyIAklZjw0PjsNCgkucmVnIC5iMzIgCSVyPDIwPjsNCg0KDQoJbGQucGFyYW0udTMyIAklcjgsIFtjb21wYXJlX21pbl9wYXJhbV8wXTsNCglsZC5wYXJhbS51MzIgCSVyOSwgW2NvbXBhcmVfbWluX3BhcmFtXzJdOw0KCWxkLnBhcmFtLnUzMiAJJXIxMCwgW2NvbXBhcmVfbWluX3BhcmFtXzRdOw0KCWxkLnBhcmFtLnUzMiAJJXIxMSwgW2NvbXBhcmVfbWluX3BhcmFtXzZdOw0KCW1vdi51MzIgCSVyMTIsICVudGlkLng7DQoJbW92LnUzMiAJJXIxMywgJWN0YWlkLng7DQoJbW92LnUzMiAJJXIxNCwgJXRpZC54Ow0KCW1hZC5sby5zMzIgCSVyMTksICVyMTIsICVyMTMsICVyMTQ7DQoJc2V0cC5nZS5zMzIJJXAxLCAlcjE5LCAlcjExOw0KCUAlcDEgYnJhIAlCQjJfMzsNCg0KCWN2dGEudG8uZ2xvYmFsLnUzMiAJJXIyLCAlcjEwOw0KCWN2dGEudG8uZ2xvYmFsLnUzMiAJJXIzLCAlcjk7DQoJY3Z0YS50by5nbG9iYWwudTMyIAklcjQsICVyODsNCgltb3YudTMyIAklcjUsICVuY3RhaWQueDsNCg0KQkIyXzI6DQoJc2hsLmIzMiAJJXIxNSwgJXIxOSwgMjsNCglhZGQuczMyIAklcjE2LCAlcjMsICVyMTU7DQoJbGQuZ2xvYmFsLmYzMiAJJWYxLCBbJXIxNl07DQoJYWRkLnMzMiAJJXIxNywgJXI0LCAlcjE1Ow0KCWxkLmdsb2JhbC5mMzIgCSVmMiwgWyVyMTddOw0KCXNldHAubHQuZjMyCSVwMiwgJWYyLCAlZjE7DQoJc2VscC5mMzIJJWYzLCAlZjIsICVmMSwgJXAyOw0KCWFkZC5zMzIgCSVyMTgsICVyMiwgJXIxNTsNCglzdC5nbG9iYWwuZjMyIAlbJXIxOF0sICVmMzsNCglhZGQuczMyIAklcjE5LCAlcjUsICVyMTk7DQoJc2V0cC5sdC5zMzIJJXAzLCAlcjE5LCAlcjExOw0KCUAlcDMgYnJhIAlCQjJfMjsNCg0KQkIyXzM6DQoJcmV0Ow0KfQ0KDQoJLy8gLmdsb2JsCXN1bQ0KLnZpc2libGUgLmVudHJ5IHN1bSgNCgkucGFyYW0gLnUzMiBzdW1fcGFyYW1fMCwNCgkucGFyYW0gLnUzMiBzdW1fcGFyYW1fMSwNCgkucGFyYW0gLnUzMiBzdW1fcGFyYW1fMiwNCgkucGFyYW0gLnUzMiBzdW1fcGFyYW1fMywNCgkucGFyYW0gLnUzMiBzdW1fcGFyYW1fNCwNCgkucGFyYW0gLnUzMiBzdW1fcGFyYW1fNSwNCgkucGFyYW0gLnUzMiBzdW1fcGFyYW1fNg0KKQ0Kew0KCS5yZWcgLnByZWQgCSVwPDM+Ow0KCS5yZWcgLmYzMiAJJWY8ND47DQoJLnJlZyAuYjMyIAklcjwyMD47DQoNCg0KCWxkLnBhcmFtLnUzMiAJJXI4LCBbc3VtX3BhcmFtXzBdOw0KCWxkLnBhcmFtLnUzMiAJJXI5LCBbc3VtX3BhcmFtXzJdOw0KCWxkLnBhcmFtLnUzMiAJJXIxMCwgW3N1bV9wYXJhbV80XTsNCglsZC5wYXJhbS51MzIgCSVyMTEsIFtzdW1fcGFyYW1fNl07DQoJbW92LnUzMiAJJXIxMiwgJW50aWQueDsNCgltb3YudTMyIAklcjEzLCAlY3RhaWQueDsNCgltb3YudTMyIAklcjE0LCAldGlkLng7DQoJbWFkLmxvLnMzMiAJJXIxOSwgJXIxMiwgJXIxMywgJXIxNDsNCglzZXRwLmdlLnMzMgklcDEsICVyMTksICVyMTE7DQoJQCVwMSBicmEgCUJCM18zOw0KDQoJY3Z0YS50by5nbG9iYWwudTMyIAklcjIsICVyMTA7DQoJY3Z0YS50by5nbG9iYWwudTMyIAklcjMsICVyOTsNCgljdnRhLnRvLmdsb2JhbC51MzIgCSVyNCwgJXI4Ow0KCW1vdi51MzIgCSVyNSwgJW5jdGFpZC54Ow0KDQpCQjNfMjoNCglzaGwuYjMyIAklcjE1LCAlcjE5LCAyOw0KCWFkZC5zMzIgCSVyMTYsICVyMywgJXIxNTsNCglsZC5nbG9iYWwuZjMyIAklZjEsIFslcjE2XTsNCglhZGQuczMyIAklcjE3LCAlcjQsICVyMTU7DQoJbGQuZ2xvYmFsLmYzMiAJJWYyLCBbJXIxN107DQoJYWRkLmYzMiAJJWYzLCAlZjIsICVmMTsNCglhZGQuczMyIAklcjE4LCAlcjIsICVyMTU7DQoJc3QuZ2xvYmFsLmYzMiAJWyVyMThdLCAlZjM7DQoJYWRkLnMzMiAJJXIxOSwgJXI1LCAlcjE5Ow0KCXNldHAubHQuczMyCSVwMiwgJXIxOSwgJXIxMTsNCglAJXAyIGJyYSAJQkIzXzI7DQoNCkJCM18zOg0KCXJldDsNCn0NCg0KDQo=</PTXMODULE>
+  </PTXMODULES>
+  <BinaryModules />
+  <SourceCodes>
+    <SourceCodeFile ID="9f07abba-8f32-4cf5-b88d-50676f79d639" Language="Cuda" Arch="sm_20">DQovLyBQYXJhbGxlbFNQU1MuRm9ybTENCmV4dGVybiAiQyIgX19nbG9iYWxfXyAgdm9pZCBhZGRWZWN0b3IoIGZsb2F0KiBhLCBpbnQgYUxlbjAsICBmbG9hdCogYiwgaW50IGJMZW4wLCAgZmxvYXQqIGMsIGludCBjTGVuMCwgaW50IE4pOw0KLy8gUGFyYWxsZWxTUFNTLkZvcm0xDQpleHRlcm4gIkMiIF9fZ2xvYmFsX18gIHZvaWQgY29tcGFyZV9tYXgoIGZsb2F0KiBhLCBpbnQgYUxlbjAsICBmbG9hdCogYiwgaW50IGJMZW4wLCAgZmxvYXQqIGMsIGludCBjTGVuMCwgaW50IE4pOw0KLy8gUGFyYWxsZWxTUFNTLkZvcm0xDQpleHRlcm4gIkMiIF9fZ2xvYmFsX18gIHZvaWQgY29tcGFyZV9taW4oIGZsb2F0KiBhLCBpbnQgYUxlbjAsICBmbG9hdCogYiwgaW50IGJMZW4wLCAgZmxvYXQqIGMsIGludCBjTGVuMCwgaW50IE4pOw0KLy8gUGFyYWxsZWxTUFNTLkZvcm0xDQpleHRlcm4gIkMiIF9fZ2xvYmFsX18gIHZvaWQgc3VtKCBmbG9hdCogYSwgaW50IGFMZW4wLCAgZmxvYXQqIGIsIGludCBiTGVuMCwgIGZsb2F0KiBjLCBpbnQgY0xlbjAsIGludCBOKTsNCg0KLy8gUGFyYWxsZWxTUFNTLkZvcm0xDQpleHRlcm4gIkMiIF9fZ2xvYmFsX18gIHZvaWQgYWRkVmVjdG9yKCBmbG9hdCogYSwgaW50IGFMZW4wLCAgZmxvYXQqIGIsIGludCBiTGVuMCwgIGZsb2F0KiBjLCBpbnQgY0xlbjAsIGludCBOKQ0Kew0KCWZvciAoaW50IGkgPSB0aHJlYWRJZHgueCArIGJsb2NrSWR4LnggKiBibG9ja0RpbS54OyBpIDwgTjsgaSArPSBncmlkRGltLngpDQoJew0KCQljWyhpKV0gPSBhWyhpKV0gKyBiWyhpKV07DQoJfQ0KfQ0KLy8gUGFyYWxsZWxTUFNTLkZvcm0xDQpleHRlcm4gIkMiIF9fZ2xvYmFsX18gIHZvaWQgY29tcGFyZV9tYXgoIGZsb2F0KiBhLCBpbnQgYUxlbjAsICBmbG9hdCogYiwgaW50IGJMZW4wLCAgZmxvYXQqIGMsIGludCBjTGVuMCwgaW50IE4pDQp7DQoJZm9yIChpbnQgaSA9IHRocmVhZElkeC54ICsgYmxvY2tJZHgueCAqIGJsb2NrRGltLng7IGkgPCBOOyBpICs9IGdyaWREaW0ueCkNCgl7DQoJCWlmIChhWyhpKV0gPiBiWyhpKV0pDQoJCXsNCgkJCWNbKGkpXSA9IGFbKGkpXTsNCgkJfQ0KCQllbHNlDQoJCXsNCgkJCWNbKGkpXSA9IGJbKGkpXTsNCgkJfQ0KCX0NCn0NCi8vIFBhcmFsbGVsU1BTUy5Gb3JtMQ0KZXh0ZXJuICJDIiBfX2dsb2JhbF9fICB2b2lkIGNvbXBhcmVfbWluKCBmbG9hdCogYSwgaW50IGFMZW4wLCAgZmxvYXQqIGIsIGludCBiTGVuMCwgIGZsb2F0KiBjLCBpbnQgY0xlbjAsIGludCBOKQ0Kew0KCWZvciAoaW50IGkgPSB0aHJlYWRJZHgueCArIGJsb2NrSWR4LnggKiBibG9ja0RpbS54OyBpIDwgTjsgaSArPSBncmlkRGltLngpDQoJew0KCQlpZiAoYVsoaSldIDwgYlsoaSldKQ0KCQl7DQoJCQljWyhpKV0gPSBhWyhpKV07DQoJCX0NCgkJZWxzZQ0KCQl7DQoJCQljWyhpKV0gPSBiWyhpKV07DQoJCX0NCgl9DQp9DQovLyBQYXJhbGxlbFNQU1MuRm9ybTENCmV4dGVybiAiQyIgX19nbG9iYWxfXyAgdm9pZCBzdW0oIGZsb2F0KiBhLCBpbnQgYUxlbjAsICBmbG9hdCogYiwgaW50IGJMZW4wLCAgZmxvYXQqIGMsIGludCBjTGVuMCwgaW50IE4pDQp7DQoJZm9yIChpbnQgaSA9IHRocmVhZElkeC54ICsgYmxvY2tJZHgueCAqIGJsb2NrRGltLng7IGkgPCBOOyBpICs9IGdyaWREaW0ueCkNCgl7DQoJCWNbKGkpXSA9IGFbKGkpXSArIGJbKGkpXTsNCgl9DQp9DQo=</SourceCodeFile>
+  </SourceCodes>
+  <Functions>
+    <CudafyKernelMethod Name="addVector" Type="Global" IsDummy="false" DummyBehaviour="Default">
+      <Type>ParallelSPSS.Form1</Type>
+      <Assembly>ParallelSPSS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Assembly>
+      <AssemblyName>ParallelSPSS</AssemblyName>
+      <AssemblyPath>C:\Users\akbar\Documents\present\ParallelSPSS\bin\Debug\ParallelSPSS.exe</AssemblyPath>
+      <Checksum>2787995499</Checksum>
+      <Parameters>
+        <ReturnType>System.Void</ReturnType>
+        <Parameter Type="Cudafy.GThread" Name="thread" Position="0" />
+        <Parameter Type="System.Single[]" Name="a" Position="1" />
+        <Parameter Type="System.Single[]" Name="b" Position="2" />
+        <Parameter Type="System.Single[]" Name="c" Position="3" />
+        <Parameter Type="System.Int32" Name="N" Position="4" />
+      </Parameters>
+    </CudafyKernelMethod>
+    <CudafyKernelMethod Name="compare_max" Type="Global" IsDummy="false" DummyBehaviour="Default">
+      <Type>ParallelSPSS.Form1</Type>
+      <Assembly>ParallelSPSS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Assembly>
+      <AssemblyName>ParallelSPSS</AssemblyName>
+      <AssemblyPath>C:\Users\akbar\Documents\present\ParallelSPSS\bin\Debug\ParallelSPSS.exe</AssemblyPath>
+      <Checksum>2787995499</Checksum>
+      <Parameters>
+        <ReturnType>System.Void</ReturnType>
+        <Parameter Type="Cudafy.GThread" Name="thread" Position="0" />
+        <Parameter Type="System.Single[]" Name="a" Position="1" />
+        <Parameter Type="System.Single[]" Name="b" Position="2" />
+        <Parameter Type="System.Single[]" Name="c" Position="3" />
+        <Parameter Type="System.Int32" Name="N" Position="4" />
+      </Parameters>
+    </CudafyKernelMethod>
+    <CudafyKernelMethod Name="compare_min" Type="Global" IsDummy="false" DummyBehaviour="Default">
+      <Type>ParallelSPSS.Form1</Type>
+      <Assembly>ParallelSPSS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Assembly>
+      <AssemblyName>ParallelSPSS</AssemblyName>
+      <AssemblyPath>C:\Users\akbar\Documents\present\ParallelSPSS\bin\Debug\ParallelSPSS.exe</AssemblyPath>
+      <Checksum>2787995499</Checksum>
+      <Parameters>
+        <ReturnType>System.Void</ReturnType>
+        <Parameter Type="Cudafy.GThread" Name="thread" Position="0" />
+        <Parameter Type="System.Single[]" Name="a" Position="1" />
+        <Parameter Type="System.Single[]" Name="b" Position="2" />
+        <Parameter Type="System.Single[]" Name="c" Position="3" />
+        <Parameter Type="System.Int32" Name="N" Position="4" />
+      </Parameters>
+    </CudafyKernelMethod>
+    <CudafyKernelMethod Name="sum" Type="Global" IsDummy="false" DummyBehaviour="Default">
+      <Type>ParallelSPSS.Form1</Type>
+      <Assembly>ParallelSPSS, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</Assembly>
+      <AssemblyName>ParallelSPSS</AssemblyName>
+      <AssemblyPath>C:\Users\akbar\Documents\present\ParallelSPSS\bin\Debug\ParallelSPSS.exe</AssemblyPath>
+      <Checksum>2787995499</Checksum>
+      <Parameters>
+        <ReturnType>System.Void</ReturnType>
+        <Parameter Type="Cudafy.GThread" Name="thread" Position="0" />
+        <Parameter Type="System.Single[]" Name="a" Position="1" />
+        <Parameter Type="System.Single[]" Name="b" Position="2" />
+        <Parameter Type="System.Single[]" Name="c" Position="3" />
+        <Parameter Type="System.Int32" Name="N" Position="4" />
+      </Parameters>
+    </CudafyKernelMethod>
+  </Functions>
+  <Constants />
+  <Types />
+</CudafyModule>

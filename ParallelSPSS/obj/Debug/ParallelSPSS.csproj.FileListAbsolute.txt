@@ -1,0 +1,36 @@
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\bin\Debug\ParallelSPSS.exe.config
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\bin\Debug\ParallelSPSS.exe
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\bin\Debug\ParallelSPSS.pdb
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\bin\Debug\unvell.ReoGrid.dll
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\obj\Debug\ParallelSPSS.csprojResolveAssemblyReference.cache
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\obj\Debug\ParallelSPSS.Form1.resources
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\obj\Debug\ParallelSPSS.Properties.Resources.resources
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\obj\Debug\ParallelSPSS.csproj.GenerateResource.Cache
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\obj\Debug\ParallelSPSS.exe
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\obj\Debug\ParallelSPSS.pdb
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\obj\Debug\ParallelSPSS.FormValue.resources
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\bin\Debug\Cudafy.NET.dll
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\bin\Debug\Cudafy.NET.xml
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\obj\Debug\ParallelSPSS.AnalyzeForm.resources
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\obj\Debug\ParallelSPSS.ResultForm.resources
+C:\Users\ardhy\Documents\Visual Studio 2015\Projects\Majles\ParallelSPSS\obj\Debug\ParallelSPSS.MissingForm.resources
+C:\Users\akbar\Documents\present\ParallelSPSS\bin\Debug\ParallelSPSS.exe.config
+C:\Users\akbar\Documents\present\ParallelSPSS\obj\Debug\ParallelSPSS.exe
+C:\Users\akbar\Documents\present\ParallelSPSS\obj\Debug\ParallelSPSS.pdb
+C:\Users\akbar\Documents\present\ParallelSPSS\bin\Debug\ParallelSPSS.exe
+C:\Users\akbar\Documents\present\ParallelSPSS\bin\Debug\ParallelSPSS.pdb
+C:\Users\akbar\Documents\present\ParallelSPSS\bin\Debug\Cudafy.NET.dll
+C:\Users\akbar\Documents\present\ParallelSPSS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\akbar\Documents\present\ParallelSPSS\bin\Debug\unvell.ReoGrid.dll
+C:\Users\akbar\Documents\present\ParallelSPSS\bin\Debug\Cudafy.NET.xml
+C:\Users\akbar\Documents\present\ParallelSPSS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\akbar\Documents\present\ParallelSPSS\obj\Debug\ParallelSPSS.csprojResolveAssemblyReference.cache
+C:\Users\akbar\Documents\present\ParallelSPSS\obj\Debug\ParallelSPSS.AnalyzeForm.resources
+C:\Users\akbar\Documents\present\ParallelSPSS\obj\Debug\ParallelSPSS.Form1.resources
+C:\Users\akbar\Documents\present\ParallelSPSS\obj\Debug\ParallelSPSS.FormValue.resources
+C:\Users\akbar\Documents\present\ParallelSPSS\obj\Debug\ParallelSPSS.MissingForm.resources
+C:\Users\akbar\Documents\present\ParallelSPSS\obj\Debug\ParallelSPSS.Properties.Resources.resources
+C:\Users\akbar\Documents\present\ParallelSPSS\obj\Debug\ParallelSPSS.ResultForm.resources
+C:\Users\akbar\Documents\present\ParallelSPSS\obj\Debug\ParallelSPSS.csproj.GenerateResource.Cache
